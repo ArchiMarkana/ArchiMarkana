@@ -1,38 +1,25 @@
 # 👋 Hi, I’m Archi Markana
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning  
-🚀 Passionate about turning ideas into code and deploying real-world solutions
+🎓 B.Tech in AI & ML | Passionate about solving real-world problems through code  
+💡 Focused on AI, Web & Mobile Development, and Algorithmic Trading  
 
 ---
 
-## 👀 Interests:
-- 🤖 Artificial Intelligence & Machine Learning  
-- 💹 Algorithmic Trading & Data Analytics  
-- 🌐 Web Development with React  
-- 📱 Cross-platform Mobile Development with Flutter  
+## 🛠️ Tech Stack
+**Languages:** Python, Dart, HTML, CSS  
+**Frameworks:** React, Flutter, Node.js  
+**Tools:** Firebase, Git, GitHub, Netlify  
+**Databases:** MySQL, Firebase Realtime DB
 
 ---
 
-## 🌱 Currently Learning:
-- 🐍 Python for AI, Data Science, and Automation  
-- ⚛️ React for Modern Web Interfaces  
-- 📱 Flutter for Beautiful Android Apps    
+## 📌 Interests
+AI/ML • Algo Trading • Web Apps • Mobile Apps
 
 ---
 
-## 💻 Tech Stack:
-- **Languages:** Python, Dart, HTML, CSS,  
-- **Frameworks & Tools:** React, Flutter, Firebase, Node.js  
-- **DevOps & Platforms:** Git, GitHub, Netlify, Firebase Hosting  
-- **Databases:** MySQL, Firebase Realtime DB, PHP
-
----
-
-## 🤝 Looking to Collaborate On:
-- 🔍 AI-based Web & Mobile Apps  
-- 📈 Trading Bots using Financial Data  
-- 🌱 Open Source Projects with real-world impact  
-
+## 🌱 Currently Learning
+Python • React • Flutter • Linux CLI
 ---
 
 ## 📫 How to Reach Me:
