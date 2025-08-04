@@ -5,6 +5,6 @@
 🚀 Passionate about turning real-world problems into intelligent solutions
 
 ## 📬 Let’s connect:
-- 📧 `archimarkana123@gmail.com`  
+- 📧 `archimarkana@gmail.com`  
 - 💼 [LinkedIn](www.linkedin.com/in/archi-markana)  
 - 🌐 Portfolio: *Coming soon...*
